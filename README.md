@@ -16,8 +16,8 @@ perform). But it's not possible.
 
 Its easy to see that you have to orient the edges. Some edges will have the
 wrong color attached to the wrong the side, and any number of R and U moves
-won't orient them correctly. This is what Petrus does in his [third step]
-(https://lar5.com/cube/fas3.html).
+won't orient them correctly. This is what Petrus does in his
+[third step](https://lar5.com/cube/fas3.html).
 
 The question now becomes that after these edge cubes have been oriented, can the
 rest of the cube be solved with only R and U moves. Still the answer is no, and
@@ -89,8 +89,8 @@ one possible combination. This gives us a total of 6x5x4 = 120 solvable cases
 as desired.
 
 I still wanted a combinatorial proof for this. This is an intriguing problem
-since most such problems can be solved with [inversions]
-(https://en.wikipedia.org/wiki/Inversion_(discrete_mathematics). After a few
+since most such problems can be solved with
+[inversions](https://en.wikipedia.org/wiki/Inversion_(discrete_mathematics). After a few
 days of tinkering with my script, and looking at which cases worked, I was able
 to define four classes of positions. Two of them were good, and two were not.
 I showed that each R or U move took good positions to good positions. This
